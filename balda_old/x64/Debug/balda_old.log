@@ -1,0 +1,3 @@
+﻿  balda_old.cpp
+D:\Учеба\pet_projects\balda_old\balda_old.cpp(243,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  balda_old.vcxproj -> D:\Учеба\pet_projects\balda_old\x64\Debug\balda_old.exe
